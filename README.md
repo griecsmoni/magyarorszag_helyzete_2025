@@ -1,4 +1,4 @@
-# magyarorszag_helyzete_2025 (valós tanulmány)
+# magyarorszag_helyzete_2025 (empirical study)
 
 # Magyarország helyzete 2025
 ## – összefoglaló a „Mass Influence – Blessing or Curse” alapján
